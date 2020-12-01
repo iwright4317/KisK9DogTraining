@@ -1,2 +1,2 @@
 # demo
-Some description
+Some detailed description!
